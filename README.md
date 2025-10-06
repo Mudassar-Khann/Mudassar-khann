@@ -3,10 +3,15 @@
 <!-- ====================================================== -->
 
 <!-- ✦ BANNER SECTION ✦ -->
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ee/b2/a9/eeb2a991da62baf63b0616ac0e33e1a2.gif" 
-       alt="Cyberpunk Coder Banner" 
-       style="width:100%; max-height:300px; object-fit:cover; border-radius:12px;" />
+ <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/cyberpunk.gif" 
+     alt="Cyberpunk Coder Banner" 
+     style="width:100%; max-height:300px; object-fit:cover; border-radius:12px;" />
+
+</p>
+
+
 </p>
 
 <!-- ✦ NAME + TAGLINE ✦ -->
@@ -61,12 +66,21 @@
 
 ---
 
-<!-- ✦ FUN FACT ✦ -->
-<h2 align="center" style="color:#FF00FF;">💡 Fun Fact</h2>
+<!-- ⚡ Neon Signature / Quote Image — CENTERED -->
 
 <p align="center">
-  <em>“I whisper madness to machines, and they politely pretend it's genius.”</em>
+  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/Thinking%20statue.png" 
+     alt="Thinking Statue" 
+     style="width:150px; display:block; margin: 0 auto;" />
+
 </p>
+<p align="center">
+  <em><span style="color:#00FFFF;">"I whisper madness to machines, and they politely pretend it's genius."</span></em>
+</p>
+
+
+
+
 
 ---
 
