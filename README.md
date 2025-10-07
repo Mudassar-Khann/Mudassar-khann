@@ -67,32 +67,32 @@
 ---
 
 <!-- ✦ ENHANCED QUOTE SECTION WITH CYBERPUNK VISUALS ✦ -->
-<div align="center" style="position: relative; margin: 40px 0;">
+<div align="center" style="position: relative; margin: 40px 0; padding: 20px;">
   
-  <!-- Left-hand image - bottom-left -->
+  <!-- Left-hand image - bottom-left corner -->
   <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/neon-left-hand.png" 
        alt="Neon Left Hand" 
-       style="position: absolute; bottom: 0; left: 0; width: 120px; z-index: 1;" />
+       style="width:120px; display:block; margin:0 auto;" />
   
   <!-- Cyberpunk Greek image - bottom-left -->
   <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/cyberpunk-greek-statue.png" 
        alt="Cyberpunk Greek Statue" 
-       style="position: absolute; bottom: 0; left: 130px; width: 140px; z-index: 2;" />
+       style="width:140px; display:block; margin:0 auto;" />
 
-  <!-- Main Quote - Large and Prominent -->
-  <h1 align="center" style="color:#00FFFF; font-size: 2.5em; font-weight: bold; margin: 60px 20px; text-shadow: 0 0 10px #00FFFF;">
+  <!-- Main Quote - Smaller and Centered -->
+  <h2 align="center" style="color:#00FFFF; font-size: 1.8em; font-weight: bold; margin: 30px 20px; text-shadow: 0 0 8px #00FFFF;">
     <em>"I whisper madness to machines, and they politely pretend it's genius."</em>
-  </h1>
+  </h2>
 
-  <!-- Right-hand image - bottom-right -->
+  <!-- Right-hand image - bottom-right corner -->
   <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/neon-right-hand.png" 
        alt="Neon Right Hand" 
-       style="position: absolute; bottom: 0; right: 130px; width: 120px; z-index: 1;" />
+       style="width:120px; display:block; margin:0 auto;" />
   
-  <!-- Thinking Statue image - bottom-right -->
+  <!-- Thinking Statue image - bottom-right, perfectly aligned -->
   <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/Thinking%20statue.png" 
        alt="Thinking Statue" 
-       style="position: absolute; bottom: 0; right: 0; width: 150px; z-index: 2;" />
+       style="width:150px; display:block; margin:0 auto;" />
 
 </div>
 
