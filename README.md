@@ -66,35 +66,31 @@
 
 ---
 
-<!-- ✦ ENHANCED QUOTE SECTION WITH CYBERPUNK VISUALS ✦ -->
-<div align="center" style="position: relative; margin: 40px 0; padding: 20px;">
-  
-  <!-- Left-hand image - bottom-left corner -->
-  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/neon-left-hand.png" 
-       alt="Neon Left Hand" 
-       style="width:120px; display:block; margin:0 auto;" />
-  
-  <!-- Cyberpunk Greek image - bottom-left -->
-  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/cyberpunk-greek-statue.png" 
-       alt="Cyberpunk Greek Statue" 
-       style="width:140px; display:block; margin:0 auto;" />
+<!-- ✦ ENHANCED CYBERPUNK QUOTE SECTION ✦ -->
+<div align="center" style="position: relative; width:100%; max-width:900px; margin: 40px auto; padding: 40px 20px; box-sizing: border-box;">
 
-  <!-- Main Quote - Smaller and Centered -->
-  <h2 align="center" style="color:#00FFFF; font-size: 1.8em; font-weight: bold; margin: 30px 20px; text-shadow: 0 0 8px #00FFFF;">
-    <em>"I whisper madness to machines, and they politely pretend it's genius."</em>
+  
+ 
+
+  <!-- Thinking Statue image (bottom-right, perfectly aligned near right hand) -->
+  <img
+    src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/Thinking%20statue.png"
+    alt="Thinking Statue"
+    style="position: absolute; bottom: 10px; right: 130px; width:140px; max-width:22%; height:auto; pointer-events: none; z-index:1;"
+  />
+
+  <!-- The quote: larger, centered and visually prominent -->
+  <h2
+    align="center"
+    style="position: relative; z-index:2; margin: 0 auto; padding: 40px 20px; max-width: 820px;
+           font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+           font-size: clamp(1.8rem, 3.4vw, 2.6rem); color: #00FFFF; font-weight:700;
+           text-align:center; line-height:1.2; text-shadow: 0 0 12px rgba(0,255,255,0.25), 0 2px 12px rgba(0,0,0,0.45);">
+    <em>“I whisper madness to machines, and they politely pretend it's genius.”</em>
   </h2>
 
-  <!-- Right-hand image - bottom-right corner -->
-  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/neon-right-hand.png" 
-       alt="Neon Right Hand" 
-       style="width:120px; display:block; margin:0 auto;" />
-  
-  <!-- Thinking Statue image - bottom-right, perfectly aligned -->
-  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/Thinking%20statue.png" 
-       alt="Thinking Statue" 
-       style="width:150px; display:block; margin:0 auto;" />
-
 </div>
+
 
 ---
 
