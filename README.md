@@ -29,7 +29,7 @@
 <h2 align="center" style="color:#00FFFF;">🌌 Currently Exploring</h2>
 
 <p align="center">
-  <em>“Practicing practical Python projects & concepts to strengthen my logic and problem-solving expertise.”</em>
+  <em>"Practicing practical Python projects & concepts to strengthen my logic and problem-solving expertise."</em>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 <h2 align="center" style="color:#00FFFF;">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/MadiCodess" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   &nbsp;&nbsp;
@@ -59,28 +59,42 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:mudassaarkhan@gmail.com">
+  <a href="mailto:m.mudassaarkhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<!-- ⚡ Neon Signature / Quote Image — CENTERED -->
+<!-- ✦ ENHANCED QUOTE SECTION WITH CYBERPUNK VISUALS ✦ -->
+<div align="center" style="position: relative; margin: 40px 0;">
+  
+  <!-- Left-hand image - bottom-left -->
+  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/neon-left-hand.png" 
+       alt="Neon Left Hand" 
+       style="position: absolute; bottom: 0; left: 0; width: 120px; z-index: 1;" />
+  
+  <!-- Cyberpunk Greek image - bottom-left -->
+  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/cyberpunk-greek-statue.png" 
+       alt="Cyberpunk Greek Statue" 
+       style="position: absolute; bottom: 0; left: 130px; width: 140px; z-index: 2;" />
 
-<p align="center">
+  <!-- Main Quote - Large and Prominent -->
+  <h1 align="center" style="color:#00FFFF; font-size: 2.5em; font-weight: bold; margin: 60px 20px; text-shadow: 0 0 10px #00FFFF;">
+    <em>"I whisper madness to machines, and they politely pretend it's genius."</em>
+  </h1>
+
+  <!-- Right-hand image - bottom-right -->
+  <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/neon-right-hand.png" 
+       alt="Neon Right Hand" 
+       style="position: absolute; bottom: 0; right: 130px; width: 120px; z-index: 1;" />
+  
+  <!-- Thinking Statue image - bottom-right -->
   <img src="https://raw.githubusercontent.com/Mudassar-Khann/Mudassar-khann/main/assets/Thinking%20statue.png" 
-     alt="Thinking Statue" 
-     style="width:150px; display:block; margin: 0 auto;" />
+       alt="Thinking Statue" 
+       style="position: absolute; bottom: 0; right: 0; width: 150px; z-index: 2;" />
 
-</p>
-<p align="center">
-  <em><span style="color:#00FFFF;">"I whisper madness to machines, and they politely pretend it's genius."</span></em>
-</p>
-
-
-
-
+</div>
 
 ---
 
@@ -97,16 +111,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudassarKhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF00FF" alt="Top Languages" width="49%" />
 </div>
-
----
-
-<!-- ✦ QUOTE OR MOTTO ✦ -->
-<h2 align="center" style="color:#00FFFF;">⚙️ Developer’s Creed</h2>
-
-<pre align="center" style="background-color:#0A0A0A; color:#FF00FF; border-radius:8px; padding:10px;">
-“Code isn’t just logic — 
-it’s poetry written in binary.”
-</pre>
 
 ---
 
