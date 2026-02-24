@@ -13,7 +13,7 @@
 
 <h1 align="center">Mudassar Khan</h1>
 <p align="center">
-  Python Developer | Aspiring Backend & AI Engineer
+  Python developer. Currently: learning AI Engineering and shipping projects publicly.
 </p>
 
 ---
